@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="number_zero">0</string>
+    <string name="number_one">1</string>
+    <string name="number_two">2</string>
+    <string name="number_three">3</string>
+    <string name="number_four">4</string>
+    <string name="number_five">5</string>
+    <string name="number_six">6</string>
+    <string name="number_seven">7</string>
+    <string name="number_eight">8</string>
+    <string name="number_nine">9</string>
+    <string name="add">+</string>
+    <string name="subtraction">-</string>
+    <string name="multiplication">×</string>
+    <string name="division">÷</string>
+    <string name="equal">=</string>
+    <string name="clear">AC</string>
+    <string name="mod">%</string>
+    <string name="change">+/-</string>
+    <string name="dot">.</string>
+    <string name="open_brackets">(</string>
+    <string name="close_brackets">)</string>
+    <string name="preference_file_key">resultOfExpression</string>
+    <string name="menu_clear">Clear</string>
+    <string name="menu_save_last_result">Save last result</string>
+    <string name="menu_last_result">Last result </string>
+    <string name="result_saved">Saved</string>
+
+</resources>
